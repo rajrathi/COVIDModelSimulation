@@ -1,1 +1,1 @@
-# COVIDResearch
+# COVID simulation using SEIRDV model
